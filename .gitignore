@@ -6,3 +6,5 @@ _site
 production.lkft.linaro.org/
 staging.lkft.linaro.org/
 .bundle/
+built_site
+.gems
