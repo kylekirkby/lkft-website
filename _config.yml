@@ -5,6 +5,7 @@ favicon: /favicon.ico
 #email: lkft-triage@lists.linaro.org # have to figure out what lists to publish
 footer-text: "Copyright © 2019 Linaro Limited • [lkft@linaro.org](mailto:lkft@linaro.org) • freenode/#linaro-lkft • [lkft-triage@lists.linaro.org](mailto:lkft-triage@lists.linaro.org)"
 irc_channel: linaro-lkft
+google_analytics: UA-116225604-2
 description: >- # this means to ignore newlines until "baseurl:"
   Linaro's Linux Kernel Functional Testing (LKFT) project validates Linux
   stable kernels on arm, arm64, and x86_64 consumer hardware.

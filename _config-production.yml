@@ -1,2 +1,3 @@
 destination: production.lkft.linaro.org
 url: "https://lkft.linaro.org"
+google_analytics: UA-116225604-1

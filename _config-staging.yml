@@ -1,2 +1,3 @@
 destination: staging.lkft.linaro.org
 url: "https://staging.lkft.linaro.org"
+google_analytics: UA-116225604-2
